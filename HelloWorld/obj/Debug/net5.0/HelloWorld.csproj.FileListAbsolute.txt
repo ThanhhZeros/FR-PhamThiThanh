@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
