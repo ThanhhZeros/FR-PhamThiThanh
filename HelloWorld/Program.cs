@@ -40,6 +40,13 @@ namespace HelloWorld
 			object obj;
 			obj = 100;
 			Console.WriteLine(obj);
+			Loops lp = new Loops();
+			Console.WriteLine("Lap for:");
+			lp.LapFor();
+			Console.WriteLine("Lap foreach:");
+			lp.LapForeach();
+			Console.WriteLine("Do while:");
+			lp.LapDoWhile();
 		}
     }
 }
