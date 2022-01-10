@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicOOP", "BasicOOP", "{5C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdvancedCSharp", "AdvancedCSharp", "{723DE176-6B2B-405E-A84E-691681DB7B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{8AA6F321-3753-4B81-8FA4-7A37A7C1AE85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{8AA6F321-3753-4B81-8FA4-7A37A7C1AE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassObject", "ClassObject\ClassObject.csproj", "{54EED6BB-10E6-44A5-9CB6-5013405B923D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,12 +23,17 @@ Global
 		{8AA6F321-3753-4B81-8FA4-7A37A7C1AE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA6F321-3753-4B81-8FA4-7A37A7C1AE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA6F321-3753-4B81-8FA4-7A37A7C1AE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EED6BB-10E6-44A5-9CB6-5013405B923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EED6BB-10E6-44A5-9CB6-5013405B923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EED6BB-10E6-44A5-9CB6-5013405B923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EED6BB-10E6-44A5-9CB6-5013405B923D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8AA6F321-3753-4B81-8FA4-7A37A7C1AE85} = {BEF60D80-720E-41DF-8F28-68EE636B9CE7}
+		{54EED6BB-10E6-44A5-9CB6-5013405B923D} = {5CFE968B-962E-4A34-94DD-CCFAF162BAA7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B46B26B-1215-413A-8FF1-46C4C0455797}
