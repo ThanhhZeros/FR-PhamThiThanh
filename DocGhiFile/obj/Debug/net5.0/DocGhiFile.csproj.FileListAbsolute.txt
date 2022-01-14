@@ -1,0 +1,15 @@
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\DocGhiFile.exe
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\DocGhiFile.deps.json
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\DocGhiFile.runtimeconfig.json
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\DocGhiFile.runtimeconfig.dev.json
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\DocGhiFile.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\ref\DocGhiFile.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\bin\Debug\net5.0\DocGhiFile.pdb
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.AssemblyInfo.cs
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\ref\DocGhiFile.dll
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.pdb
+D:\NTQ_Fresher\DemoCode\FR-PhamThiThanh\DocGhiFile\obj\Debug\net5.0\DocGhiFile.genruntimeconfig.cache
